@@ -1,0 +1,8 @@
+{
+  "name": "documentReady",
+  "description": "Jquery documentReady as a component",
+  "repository": "ovaxio/documentReady",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts" : ["index.js"]
+}
